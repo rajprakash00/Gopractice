@@ -16,7 +16,7 @@ func main() {
 	mux := defaultMux()
 
 	pathToURL := map[string]string{
-		"/urlshort-godoc": "https://github.com/rajprakash00/Go-practice",
+		"/urlshort-godoc": "https://github.com/rajprakash00/Gopractice",
 		"/yaml-godoc":     "https://godoc.org/gopkg.in/yaml.v2",
 	}
 
