@@ -20,4 +20,4 @@
 
 - run `gotest -v -coverprofile=coverage.txt`
 - then run `go tool cover -html=coverage.txt -o coverage.html`
-- open coverage.html in broswer and <b>done!! :muscle:<b>
+- open _coverage.html_ in broswer and <b>done!! :muscle:<b>
